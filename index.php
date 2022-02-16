@@ -11,4 +11,5 @@ echo 'testforce1';
 echo 'testforce22';
 
 echo 'git stash';
+echo 'test12';
 ?>
